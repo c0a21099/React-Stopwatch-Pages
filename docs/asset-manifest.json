@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/c0a21099/React-Stopwatch-Pages/static/css/main.073c9b0a.css",
-    "main.js": "/c0a21099/React-Stopwatch-Pages/static/js/main.ff0c18c5.js",
-    "static/js/787.b92b0ea3.chunk.js": "/c0a21099/React-Stopwatch-Pages/static/js/787.b92b0ea3.chunk.js",
+    "main.js": "/c0a21099/React-Stopwatch-Pages/static/js/main.8c1ff8ba.js",
+    "static/js/787.b18230d2.chunk.js": "/c0a21099/React-Stopwatch-Pages/static/js/787.b18230d2.chunk.js",
     "index.html": "/c0a21099/React-Stopwatch-Pages/index.html",
     "main.073c9b0a.css.map": "/c0a21099/React-Stopwatch-Pages/static/css/main.073c9b0a.css.map",
-    "main.ff0c18c5.js.map": "/c0a21099/React-Stopwatch-Pages/static/js/main.ff0c18c5.js.map",
-    "787.b92b0ea3.chunk.js.map": "/c0a21099/React-Stopwatch-Pages/static/js/787.b92b0ea3.chunk.js.map"
+    "main.8c1ff8ba.js.map": "/c0a21099/React-Stopwatch-Pages/static/js/main.8c1ff8ba.js.map",
+    "787.b18230d2.chunk.js.map": "/c0a21099/React-Stopwatch-Pages/static/js/787.b18230d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ff0c18c5.js"
+    "static/js/main.8c1ff8ba.js"
   ]
 }
